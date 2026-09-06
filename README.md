@@ -4,7 +4,7 @@
 To design and implement a multidocument retrieval agent using LlamaIndex to extract and synthesize information from multiple research articles, and to evaluate its performance by testing it with diverse queries, analyzing its ability to deliver concise, relevant, and accurate responses.
 
 ### PROBLEM STATEMENT:
-
+To design and implement a multidocument retrieval agent using LlamaIndex that can retrieve relevant information from multiple research papers, compare information across documents, and generate concise, relevant, and accurate responses to user queries.
 ### DESIGN STEPS:
 
 #### STEP 1:
